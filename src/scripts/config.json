@@ -1,0 +1,7 @@
+{
+    "host_database": "http://localhost",
+    "user": "postgres",
+    "password": "admin",
+    "name_database": "game_database",
+    "port": "5432"
+}
